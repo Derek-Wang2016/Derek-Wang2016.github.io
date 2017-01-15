@@ -8,8 +8,6 @@ menu: 历史文章
 permalink: /archive/
 ---
 
-
-
 <ul>
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
