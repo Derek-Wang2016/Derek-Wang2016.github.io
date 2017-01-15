@@ -2,9 +2,9 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: Derek-Wang2016.github.io
 date_format: "ordinal"
-title: 码志
+title: 你想看的World
 subtitle: "你想看的World"
 description: "Derek的个人blog"
 keywords: 教育 英语 育儿 
@@ -77,12 +77,12 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: Derek-Wang2016/Derek-Wang2016.github.io
 
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
+github_username: Derek-Wang2016
 douban_username: freedim
 facebook_username: mzlogin
 weibo_username: mzlogin
