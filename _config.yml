@@ -31,11 +31,11 @@ navs:
     label: 首页
 
   -
-    href: /分类/
+    href: /categories/
     label: 分类
 
   -
-    href: /历史文件/
+    href: /Achive/
     label: 历史文章
 
 
