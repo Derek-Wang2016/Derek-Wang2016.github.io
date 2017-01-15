@@ -8,18 +8,18 @@ menu: 历史文章
 permalink: /archive/
 ---
 
-<section class="container posts-content">
-{% assign sorted_categories = site.categories | sort %}
-{% for category in sorted_categories %}
-<h3>{{ category | first }}</h3>
-<ol class="posts-list" id="{{ category[0] }}">
-{% for post in category.last %}
-<li class="posts-list-item">
-<span class="posts-list-meta">{{ post.date | date:"%Y-%m-%d" }}</span>
-<a class="posts-list-name" href="{{ post.url }}">{{ post.title }}</a>
-</li>
+
+
+<ul>
+{% for post in site.posts %}
+  {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
+  {% if year != y %}
+    {% assign year = y %}
+    <h2>{{ post.date | date: '%Y' }}</h2> 
+  {% endif %}
+  <li>
+    <span class="posts-list-meta">{{ post.date | date:"%Y-%m-%d" }}</span>
+    <a class="posts-list-name" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h4>
+  </li> 
 {% endfor %}
-</ol>
-{% endfor %}
-</section>
-<!-- /section.content -->
+</ul>
