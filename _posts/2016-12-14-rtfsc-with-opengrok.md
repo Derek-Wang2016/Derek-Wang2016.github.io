@@ -30,11 +30,11 @@ RTFSC 是程序员打怪升级路上避不开的功课，那营造一个舒适�
 
    而我这里要讲的主角 OpenGrok 属于另一类，免费，开源，运行流畅，功能也毫不逊色。
 
-如果你还在寻觅适合你自己的解决方案，大可以花一点时间将以上几种都尝试一遍，哪个称手用哪个，也可以像我一样，针对不同的项目使用不同的工具。想直观了解 OpenGrok 的同学可以直接先看看一些使用 OpenGrok 的在线源码查看网站，看看它能否满足你的需求，其中的一些列在 [OpenGrok installations](https://github.com/OpenGrok/OpenGrok/wiki/OpenGrok-installations)。
+如果你还在寻觅适合你自己的解决方案，大可以花一点时间将以上几种都尝试一遍，哪个称手用哪个，也可以像我一样，针对不同的项目使用不同的工具。想直观了解 OpenGrok 的同学可以直接先看看一些使用 OpenGrok 的在线源码查看网站，看看它能否满足你的需求，其中的一些列在 [OpenGrok installations][1]。
 
 ## OpenGrok 特性
 
-译自官方 [Wiki](https://github.com/OpenGrok/OpenGrok/wiki/Features)。
+译自官方 [Wiki][2]。
 
 OpenGrok 提供如下特性：
 
@@ -66,35 +66,34 @@ OpenGrok 提供如下特性：
 
 4. 可以开发插件支持新的语言和版本控制系统
 
-    已经支持的语言： [Supported Languages and Formats](https://github.com/OpenGrok/OpenGrok/wiki/Supported-Languages-and-Formats)
-    
-    已经支持的版本控制系统：[Supported Revision Control Systems](https://github.com/OpenGrok/OpenGrok/wiki/Supported-Revision-Control-Systems)
+	已经支持的语言： [Supported Languages and Formats][3]
+	已经支持的版本控制系统：[Supported Revision Control Systems][4]
 
 ## 配置 OpenGrok
 
 ### 截屏
 
-按惯例先上图吧，万一你一眼就发现不是你的菜呢（截图来自[官网](https://opengrok.github.io/OpenGrok/)）。
+按惯例先上图吧，万一你一眼就发现不是你的菜呢（截图来自[官网][5]）。
 
 搜索功能和源码树：
 
-![OpenGrok Search and Browse](/images/posts/tools/opengrok-scr1.png)
+![OpenGrok Search and Browse][image-1]
 
 代码导航和版本历史记录：
 
-![OpenGrok Navitation and History](/images/posts/tools/opengrok-scr2.png)
+![OpenGrok Navitation and History][image-2]
 
 ### 安装和配置
 
 如下以 Windows 下为例，Mac OS X 与 Linux 下与此类似，很多步骤能使用 brew 或者 apt-get 会更方便。
 
-1. 安装 [JDK](http://www.oracle.com/technetwork/java/)。
+1. 安装 [JDK][6]。
 
-2. 下载 [Tomcat](http://tomcat.apache.org/)，解压到一个目录，如 D:\Programs\apache-tomcat-8.5.8。
+2. 下载 [Tomcat][7]，解压到一个目录，如 D:\Programs\apache-tomcat-8.5.8。
 
-3. 下载 [Universal Ctags](https://github.com/universal-ctags/ctags) for Windows，将 ctags.exe 文件所在目录添加到 PATH 环境变量。
+3. 下载 [Universal Ctags][8] for Windows，将 ctags.exe 文件所在目录添加到 PATH 环境变量。
 
-4. 下载 [OpenGrok](https://github.com/OpenGrok/OpenGrok/releases) 的最新包，比如 opengrok-0.13-rc4.zip，解压到一个目录，如 D:\Programs\opengrok-0.13-rc4。
+4. 下载 [OpenGrok][9] 的最新包，比如 opengrok-0.13-rc4.zip，解压到一个目录，如 D:\Programs\opengrok-0.13-rc4。
 
 5. 配置 data root。
 
@@ -102,15 +101,15 @@ OpenGrok 提供如下特性：
 
 6. 将 OpenGrok 的 lib 目录里的 source.war 解压到 D:\Programs\apache-tomcat-8.5.8\webapps\source，配置 WEB-INF\web.xml 文件的 CONFIGURATION 为上一步生成的 data 目录下的 configureation.xml，比如我的配置：
 
-   ```xml
+   \`\`\`xml
    <display-name>OpenGrok</display-name>
    <description>A wicked fast source browser</description>
    <context-param>
-     <description>Full path to the configuration file where OpenGrok can read its configuration</description>
-     <param-name>CONFIGURATION</param-name>
-     <param-value>D:/Programs/opengrok-0.13-rc4/data/configuration.xml</param-value>
+	 <description>Full path to the configuration file where OpenGrok can read its configuration</description>
+	 <param-name>CONFIGURATION</param-name>
+	 <param-value>D:/Programs/opengrok-0.13-rc4/data/configuration.xml</param-value>
    </context-param>
-   ```
+   \`\`\`
 
 7. 配置 source root。
 
@@ -118,21 +117,21 @@ OpenGrok 提供如下特性：
 
    我的做法是在 OpenGrok 下创建了一个子目录 D:\Programs\opengrok-0.13-rc4\projects，然后将需要阅读的源码使用符号链接的方式链接到这个目录里：
 
-   ```sh
+   \`\`\`sh
    cd /d D:\Programs\opengrok-0.13-rc4\projects
-   mklink /J android D:\sources\android_5.1
+   mklink /J android D:\sources\android\_5.1
    mklink /J openjdk7 D:\sources\openjdk7
-   ```
+   \`\`\`
 
-   这样就有一个叫 android 的工程，它实际对应 D:\sources\android_5.1 下的源码，一个叫 openjdk7 的工程，它实际对应 D:\sources\openjdk7 下的源码。
+   这样就有一个叫 android 的工程，它实际对应 D:\sources\android\_5.1 下的源码，一个叫 openjdk7 的工程，它实际对应 D:\sources\openjdk7 下的源码。
 
 8. 建立索引。
 
    使用 opengrok.jar 调用 ctags 来为源码建立索引。命令行：
 
-   ```sh
+   \`\`\`sh
    java -jar /path/to/opengrok.jar -P -S -v -s /path/to/source/root -d /path/to/data/root -W /path/to/configuration.xml
-   ```
+   \`\`\`
 
    `-P` 表示为 source root 目录下的每个一级子目录生成一个工程。
 
@@ -150,9 +149,9 @@ OpenGrok 提供如下特性：
 
    比如我使用的完整命令行：
 
-   ```sh
+   \`\`\`sh
    java -jar D:\Programs\opengrok-0.13-rc4\lib\opengrok.jar -P -S -v -s D:\Programs\opengrok-0.13-rc4\projects -d D:\Programs\opengrok-0.13-rc4\data -W D:\Programs\opengrok-0.13-rc4\data\configuration.xml
-   ```
+   \`\`\`
 
    每次需要建立或更新索引的时候敲这么长一个命令当然很不爽，使用 doskey 或者 Cmder 里的 alias 命令将其 alias 为 opengrok-index 命令会省力不少，再不济把这命令存成个 bat 文件也行啊。
 
@@ -160,11 +159,11 @@ OpenGrok 提供如下特性：
 
 9. 启动 Tomcat，愉快地 RTFSC。
 
-   ```sh
+   \`\`\`sh
    D:\Programs\apache-tomcat-8.5.8\bin\catalina.bat start
-   ```
+   \`\`\`
 
-   用你最爱的浏览器打开 <http://localhost:8080/source/>，然后就能愉快地跟 OpenGrok 玩耍了。
+   用你最爱的浏览器打开 [http://localhost:8080/source/][10]，然后就能愉快地跟 OpenGrok 玩耍了。
 
    当新添加了项目，或者现有项目有源码更新时，再次执行上一步的命令，就能增量更新索引了。
 
@@ -182,17 +181,35 @@ Windows 下建立软链接的方法是使用 `mklink /J android D:\sources\andro
 
 没错，还有人做了支持在 Vim 里使用 OpenGrok 的插件，如果你是 Vim 控+折腾狂魔，可以一试，这里仅给出插件地址：
 
-* [asenac/vim-opengrok](https://github.com/asenac/vim-opengrok)
-* [jdevera/vim-opengrok-search](https://github.com/jdevera/vim-opengrok-search)
+* [asenac/vim-opengrok][11]
+* [jdevera/vim-opengrok-search][12]
 
 反正像我这种智商是折腾不动了，就安心在浏览器里用了。
 
 **在源码里做笔记**
 
-配合 Chrome 插件 [Diigo](https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh)，还能给源码加标签，写注释等等。
+配合 Chrome 插件 [Diigo][13]，还能给源码加标签，写注释等等。
 
-参考：<https://www.zhihu.com/question/33505693/answer/132224974>
+参考：[https://www.zhihu.com/question/33505693/answer/132224974][14]
 
 ## 后话
 
 古人教会了我们工欲善其事，必先利其器的智慧，但我们也不能沉迷和徘徊于各种利器之间，选择一样自己感觉最称手的工具，把它用熟练，少再在这上面花时间折腾，毕竟把有限的生命投入到无限的 RTFSC 才是正道不是么。
+
+[1]:	https://github.com/OpenGrok/OpenGrok/wiki/OpenGrok-installations
+[2]:	https://github.com/OpenGrok/OpenGrok/wiki/Features
+[3]:	https://github.com/OpenGrok/OpenGrok/wiki/Supported-Languages-and-Formats
+[4]:	https://github.com/OpenGrok/OpenGrok/wiki/Supported-Revision-Control-Systems
+[5]:	https://opengrok.github.io/OpenGrok/
+[6]:	http://www.oracle.com/technetwork/java/
+[7]:	http://tomcat.apache.org/
+[8]:	https://github.com/universal-ctags/ctags
+[9]:	https://github.com/OpenGrok/OpenGrok/releases
+[10]:	http://localhost:8080/source/
+[11]:	https://github.com/asenac/vim-opengrok
+[12]:	https://github.com/jdevera/vim-opengrok-search
+[13]:	https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh
+[14]:	https://www.zhihu.com/question/33505693/answer/132224974
+
+[image-1]:	/images/posts/tools/opengrok-scr1.png
+[image-2]:	/images/posts/tools/opengrok-scr2.png
