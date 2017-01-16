@@ -110,6 +110,16 @@
 					<integer>14</integer>
 				</dict>
 			</dict>
+			<key>2017-01-17-一步步改进美语发音（3）.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>506243267.56647599</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>28</integer>
+				</dict>
+			</dict>
 			<key>2017-01-17-幼升小：三个好习惯让你的孩子也成为尖子.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -152,6 +162,9 @@
 			<string>2013-05-19-when-your-exe-name-contains-install-or-setup.md</string>
 		</array>
 		<array>
+			<string>2017-01-17-一步步改进美语发音（3）.md</string>
+		</array>
+		<array>
 			<string>2016-12-15-警惕！4-5岁的孩子是语言能力的关键期.md</string>
 		</array>
 		<array>
@@ -189,7 +202,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>19</integer>
+			<integer>29</integer>
 		</dict>
 	</dict>
 </dict>
