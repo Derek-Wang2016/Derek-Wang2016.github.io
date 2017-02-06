@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: Derek-Wang2016.github.io
+url: youw2s.com
 date_format: "ordinal"
 title: 你想看的World
 subtitle: "首页"
@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Derek Wang
 organization: 你想看的World, Inc.
-organization_url: 
+organization_url: youw2s.com
 location: Guangzhou, China
 email: zhwangding@gmail.com
 
@@ -27,29 +27,29 @@ email: zhwangding@gmail.com
 # ---------------- #
 navs:
   -
-    href: /
-    label: 首页
+	href: /
+	label: 首页
 
   -
-    href: /categories/
-    label: 分类
+	href: /categories/
+	label: 分类
 
   -
-    href: /archive/
-    label: 历史文章
+	href: /archive/
+	label: 历史文章
 
 
 # ---------------- #
 #       RSS        #
 # ---------------- #
-subscribe_rss: /feed.xml
+subscribe_rss: 
 
 # ---------------- #
 #      Jekyll      #
 # ---------------- #
 markdown: kramdown
 kramdown:
-    input: GFM
+	input: GFM
 highlighter: rouge
 paginate: 8
 lsi: false
@@ -57,18 +57,18 @@ quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
 gems:
-    - jekyll-github-metadata
-    - rouge
+	- jekyll-github-metadata
+	- rouge
 #     - jekyll-html-pipeline
-    - jekyll-paginate
-    - jekyll-sitemap
-    - jekyll-feed
-    - jemoji
+	- jekyll-paginate
+	- jekyll-sitemap
+	- jekyll-feed
+	- jemoji
 #     - jekyll-mentions
 collections:
-    wiki:
-        output: true
-        permalink: /wiki/:path/
+	wiki:
+		output: true
+		permalink: /wiki/:path/
 
 #repository: Derek-Wang2016/Derek-Wang2016.github.io
 
@@ -98,7 +98,7 @@ lazy_load_duoshuo: false
 #    Analytics     #
 # ---------------- #
 google:
-    analytics_id: UA-80669434-1
+	analytics_id: UA-80669434-1
 
 # ---------------- #
 #      Datas       #
