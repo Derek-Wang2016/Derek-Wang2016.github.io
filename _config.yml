@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: 你想看的World
 subtitle: "首页"
 description: "Derek的个人blog"
-keywords: 教育 英语 育儿 
+keywords: 个人 博客 教育 英语 育儿
 favicon: /favicon.ico
 timezone: Asia/Guangzhou
 encoding: "utf-8"
@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Derek Wang
 organization: 你想看的World, Inc.
-organization_url: www.youw2s.com
+organization_url: youw2s.com
 location: Guangzhou, China
 email: zhwangding@gmail.com
 
