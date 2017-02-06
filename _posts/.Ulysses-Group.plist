@@ -76,6 +76,20 @@
 					<integer>42</integer>
 				</dict>
 			</dict>
+			<key>Untitled.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>508044038.43358099</real>
+				<key>lastModification</key>
+				<real>508044038.43358099</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>46</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -106,6 +120,9 @@
 	<array>
 		<array>
 			<string>2017-02-06-每天500字：我为什么要开始每天写作？.md</string>
+		</array>
+		<array>
+			<string>Untitled.md</string>
 		</array>
 		<array>
 			<string>2017-02-03-波士顿动力的最新机器人.md</string>
@@ -139,7 +156,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>43</integer>
+			<integer>46</integer>
 		</dict>
 	</dict>
 </dict>
