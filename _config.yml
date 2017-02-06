@@ -37,6 +37,10 @@ navs:
   -
     href: /archive/
     label: 历史文章
+    
+  -
+    href: /about/
+    label: 关于
 
 
 # ---------------- #
