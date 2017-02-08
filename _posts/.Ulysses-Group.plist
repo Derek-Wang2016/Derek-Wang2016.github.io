@@ -86,6 +86,16 @@
 					<integer>49</integer>
 				</dict>
 			</dict>
+			<key>2017-02-08-每天500字：专注我的朋友.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>508212476.96135002</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>55</integer>
+				</dict>
+			</dict>
 			<key>Untitled.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -138,6 +148,9 @@
 			<string>2017-02-07-每天500字：今天谈谈读书.md</string>
 		</array>
 		<array>
+			<string>2017-02-08-每天500字：专注我的朋友.md</string>
+		</array>
+		<array>
 			<string>2017-02-03-波士顿动力的最新机器人.md</string>
 		</array>
 		<array>
@@ -169,7 +182,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>50</integer>
+			<integer>56</integer>
 		</dict>
 	</dict>
 </dict>
