@@ -116,6 +116,16 @@
 					<integer>67</integer>
 				</dict>
 			</dict>
+			<key>2017-02-11-每天500字：坚持不是一个容易的事情.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>508494950.46885598</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>71</integer>
+				</dict>
+			</dict>
 			<key>Untitled.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -155,6 +165,8 @@
 				</dict>
 			</dict>
 		</dict>
+		<key>sheetOrder</key>
+		<real>508388422.34936303</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
@@ -175,6 +187,9 @@
 		</array>
 		<array>
 			<string>2017-02-10-每天500字：到底是读电子书还是实体书.md</string>
+		</array>
+		<array>
+			<string>2017-02-11-每天500字：坚持不是一个容易的事情.md</string>
 		</array>
 		<array>
 			<string>2017-02-03-波士顿动力的最新机器人.md</string>
@@ -201,6 +216,8 @@
 			<string>2017-01-17-乔布斯罕见高清大图.md</string>
 		</array>
 	</array>
+	<key>sheetOrder</key>
+	<string>modificationDate</string>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
@@ -208,7 +225,12 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>68</integer>
+			<integer>72</integer>
+		</dict>
+		<key>sheetOrder</key>
+		<dict>
+			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+			<integer>1</integer>
 		</dict>
 	</dict>
 </dict>
