@@ -126,6 +126,16 @@
 					<integer>71</integer>
 				</dict>
 			</dict>
+			<key>2017-02-12-每天500字：关于写作能力的提高.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>508605921.90496099</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>77</integer>
+				</dict>
+			</dict>
 			<key>Untitled.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -148,20 +158,6 @@
 				<dict>
 					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
 					<integer>14</integer>
-				</dict>
-			</dict>
-			<key>波士顿动力的最新及机器人 - 2.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>507959723.43367302</real>
-				<key>lastModification</key>
-				<real>507959723.43367302</real>
-				<key>version</key>
-				<dict>
-					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-					<integer>35</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -192,10 +188,10 @@
 			<string>2017-02-11-每天500字：坚持不是一个容易的事情.md</string>
 		</array>
 		<array>
-			<string>2017-02-03-波士顿动力的最新机器人.md</string>
+			<string>2017-02-12-每天500字：关于写作能力的提高.md</string>
 		</array>
 		<array>
-			<string>波士顿动力的最新及机器人 - 2.md</string>
+			<string>2017-02-03-波士顿动力的最新机器人.md</string>
 		</array>
 		<array>
 			<string>2017-01-17-一步步改进美语发音（3）.md</string>
@@ -225,7 +221,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>72</integer>
+			<integer>78</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
