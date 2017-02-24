@@ -226,18 +226,28 @@
 					<integer>132</integer>
 				</dict>
 			</dict>
+			<key>2017-02-24-每天500字：写作练习之人物的动作.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>509590491.76884401</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>141</integer>
+				</dict>
+			</dict>
 			<key>Untitled.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>509249586.57250398</real>
+				<real>509590408.58946401</real>
 				<key>lastModification</key>
-				<real>509249586.57250398</real>
+				<real>509590408.58946401</real>
 				<key>version</key>
 				<dict>
 					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-					<integer>107</integer>
+					<integer>136</integer>
 				</dict>
 			</dict>
 			<key>template.md</key>
@@ -305,6 +315,9 @@
 			<string>2017-02-23-每天500字：小孩子应该学一些竞技体育运动（2）.md</string>
 		</array>
 		<array>
+			<string>2017-02-24-每天500字：写作练习之人物的动作.md</string>
+		</array>
+		<array>
 			<string>2017-02-21-每天500字：为什么VIVO小米手机现在很好卖.md</string>
 		</array>
 		<array>
@@ -338,7 +351,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>133</integer>
+			<integer>142</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
