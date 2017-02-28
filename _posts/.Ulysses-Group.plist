@@ -236,16 +236,6 @@
 					<integer>141</integer>
 				</dict>
 			</dict>
-			<key>2017-02-27-每天500字： 学以致用才是真正掌握一个语言的方法.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>509935474.96857601</real>
-				<key>version</key>
-				<dict>
-					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-					<integer>153</integer>
-				</dict>
-			</dict>
 			<key>2017-02-27-每天500字：怎么把读书当做一个爱好.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -254,6 +244,16 @@
 				<dict>
 					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
 					<integer>149</integer>
+				</dict>
+			</dict>
+			<key>2017-02-28-每天500字： 学以致用才是真正掌握一个语言的方法.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>509938006.98656201</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>155</integer>
 				</dict>
 			</dict>
 			<key>Untitled.md</key>
@@ -338,7 +338,7 @@
 			<string>2017-02-27-每天500字：怎么把读书当做一个爱好.md</string>
 		</array>
 		<array>
-			<string>2017-02-27-每天500字： 学以致用才是真正掌握一个语言的方法.md</string>
+			<string>2017-02-28-每天500字： 学以致用才是真正掌握一个语言的方法.md</string>
 		</array>
 		<array>
 			<string>2017-02-24-每天500字：写作练习之人物的动作.md</string>
@@ -377,7 +377,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>154</integer>
+			<integer>156</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
