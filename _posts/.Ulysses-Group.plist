@@ -256,6 +256,16 @@
 					<integer>155</integer>
 				</dict>
 			</dict>
+			<key>2017-03-01-每天500字： 什么才是新互联网时代的自媒体创业.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>510022221.77288502</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>159</integer>
+				</dict>
+			</dict>
 			<key>Untitled.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -341,6 +351,9 @@
 			<string>2017-02-28-每天500字： 学以致用才是真正掌握一个语言的方法.md</string>
 		</array>
 		<array>
+			<string>2017-03-01-每天500字： 什么才是新互联网时代的自媒体创业.md</string>
+		</array>
+		<array>
 			<string>2017-02-24-每天500字：写作练习之人物的动作.md</string>
 		</array>
 		<array>
@@ -377,7 +390,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>156</integer>
+			<integer>160</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
