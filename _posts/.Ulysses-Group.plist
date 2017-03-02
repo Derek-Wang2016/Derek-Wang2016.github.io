@@ -266,6 +266,16 @@
 					<integer>159</integer>
 				</dict>
 			</dict>
+			<key>2017-03-02-每天500字： 换了一个新的地方办公.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>510110119.04754198</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>163</integer>
+				</dict>
+			</dict>
 			<key>Untitled.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -354,6 +364,9 @@
 			<string>2017-03-01-每天500字： 什么才是新互联网时代的自媒体创业.md</string>
 		</array>
 		<array>
+			<string>2017-03-02-每天500字： 换了一个新的地方办公.md</string>
+		</array>
+		<array>
 			<string>2017-02-24-每天500字：写作练习之人物的动作.md</string>
 		</array>
 		<array>
@@ -390,7 +403,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>160</integer>
+			<integer>164</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
