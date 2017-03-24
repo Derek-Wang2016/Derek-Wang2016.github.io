@@ -368,10 +368,6 @@
 			</dict>
 			<key>2017-03-23-每天500字：孩子的榜样是父母.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>511925191.25083101</real>
 				<key>lastModification</key>
 				<real>511925191.25083101</real>
 				<key>version</key>
@@ -380,18 +376,14 @@
 					<integer>226</integer>
 				</dict>
 			</dict>
-			<key>Untitled.md</key>
+			<key>2017-03-24-每天500字：对今天天气的描写.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>511404895.73947799</real>
 				<key>lastModification</key>
-				<real>511404895.73947799</real>
+				<real>512013838.50098199</real>
 				<key>version</key>
 				<dict>
 					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-					<integer>201</integer>
+					<integer>229</integer>
 				</dict>
 			</dict>
 			<key>template.md</key>
@@ -410,9 +402,6 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
-		<array>
-			<string>Untitled.md</string>
-		</array>
 		<array>
 			<string>2017-02-06-每天500字：我为什么要开始每天写作？.md</string>
 		</array>
@@ -501,6 +490,9 @@
 			<string>2017-03-23-每天500字：孩子的榜样是父母.md</string>
 		</array>
 		<array>
+			<string>2017-03-24-每天500字：对今天天气的描写.md</string>
+		</array>
+		<array>
 			<string>2017-02-24-每天500字：写作练习之人物的动作.md</string>
 		</array>
 		<array>
@@ -537,7 +529,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>226</integer>
+			<integer>230</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
