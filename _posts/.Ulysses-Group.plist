@@ -406,6 +406,16 @@
 					<integer>247</integer>
 				</dict>
 			</dict>
+			<key>2017-03-31-每天500字：为什么大部分人不需要真相.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>512614368.431283</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>257</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -519,6 +529,9 @@
 			<string>2017-03-30-每天500字：白描练习.md</string>
 		</array>
 		<array>
+			<string>2017-03-31-每天500字：为什么大部分人不需要真相.md</string>
+		</array>
+		<array>
 			<string>2017-02-24-每天500字：写作练习之人物的动作.md</string>
 		</array>
 		<array>
@@ -555,7 +568,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>248</integer>
+			<integer>258</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
