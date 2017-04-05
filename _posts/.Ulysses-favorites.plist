@@ -3,28 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>order</key>
-	<array>
-		<string>2017-03-27-每天500字：去速 up098apsiue.md</string>
-	</array>
+	<array/>
 	<key>resolutionData</key>
 	<dict>
 		<key>order</key>
-		<dict>
-			<key>2017-03-27-每天500字：去速 up098apsiue.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>512317172.48318797</real>
-				<key>lastModification</key>
-				<real>512317172.48318797</real>
-				<key>version</key>
-				<dict>
-					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-					<integer>158</integer>
-				</dict>
-			</dict>
-		</dict>
+		<dict/>
 	</dict>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -33,7 +16,7 @@
 		<key>order</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>174</integer>
+			<integer>179</integer>
 		</dict>
 	</dict>
 </dict>
