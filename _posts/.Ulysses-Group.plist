@@ -426,6 +426,16 @@
 					<integer>268</integer>
 				</dict>
 			</dict>
+			<key>2017-04-06-每天500字：怎么把才能变成赚钱的的本钱.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>513135442.26429802</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>278</integer>
+				</dict>
+			</dict>
 			<key>Untitled.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -562,6 +572,9 @@
 			<string>2017-04-05-每天500字：努力不是说说就算了的事情.md</string>
 		</array>
 		<array>
+			<string>2017-04-06-每天500字：怎么把才能变成赚钱的的本钱.md</string>
+		</array>
+		<array>
 			<string>2017-02-24-每天500字：写作练习之人物的动作.md</string>
 		</array>
 		<array>
@@ -598,7 +611,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>269</integer>
+			<integer>279</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
