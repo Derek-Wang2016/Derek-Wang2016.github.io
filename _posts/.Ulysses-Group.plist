@@ -438,12 +438,16 @@
 			</dict>
 			<key>2017-04-07-每天500字：能力的成长不是升级打怪.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>513220382.63006502</real>
 				<key>lastModification</key>
-				<real>513219094.29705</real>
+				<real>513220382.63006502</real>
 				<key>version</key>
 				<dict>
 					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-					<integer>284</integer>
+					<integer>286</integer>
 				</dict>
 			</dict>
 			<key>Untitled.md</key>
@@ -624,7 +628,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>285</integer>
+			<integer>286</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
