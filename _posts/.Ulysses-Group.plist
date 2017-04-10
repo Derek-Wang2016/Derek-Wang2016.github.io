@@ -456,6 +456,16 @@
 					<integer>289</integer>
 				</dict>
 			</dict>
+			<key>2017-04-09-每天500字：如何取舍.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>513478300.83285397</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>295</integer>
+				</dict>
+			</dict>
 			<key>Untitled.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -601,6 +611,9 @@
 			<string>2017-04-08-每天500字：学习的效率在于简化的能力.md</string>
 		</array>
 		<array>
+			<string>2017-04-09-每天500字：如何取舍.md</string>
+		</array>
+		<array>
 			<string>2017-02-24-每天500字：写作练习之人物的动作.md</string>
 		</array>
 		<array>
@@ -637,7 +650,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>290</integer>
+			<integer>296</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
