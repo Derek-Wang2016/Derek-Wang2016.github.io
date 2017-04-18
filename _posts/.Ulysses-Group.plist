@@ -506,6 +506,16 @@
 					<integer>322</integer>
 				</dict>
 			</dict>
+			<key>2017-04-18-每天500字：像上瘾一样的学习.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>514169174.95801002</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>326</integer>
+				</dict>
+			</dict>
 			<key>Untitled.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -666,6 +676,9 @@
 			<string>2017-04-17-每天500字：想玩的开心还是要先完成任务才好.md</string>
 		</array>
 		<array>
+			<string>2017-04-18-每天500字：像上瘾一样的学习.md</string>
+		</array>
+		<array>
 			<string>2017-02-24-每天500字：写作练习之人物的动作.md</string>
 		</array>
 		<array>
@@ -702,7 +715,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>323</integer>
+			<integer>327</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
