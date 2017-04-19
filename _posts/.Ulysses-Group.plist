@@ -516,6 +516,16 @@
 					<integer>326</integer>
 				</dict>
 			</dict>
+			<key>2017-04-19-每天500字：哪有什么运气，只是准备的充分而已.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>514256086.75513202</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>332</integer>
+				</dict>
+			</dict>
 			<key>Untitled.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -679,6 +689,9 @@
 			<string>2017-04-18-每天500字：像上瘾一样的学习.md</string>
 		</array>
 		<array>
+			<string>2017-04-19-每天500字：哪有什么运气，只是准备的充分而已.md</string>
+		</array>
+		<array>
 			<string>2017-02-24-每天500字：写作练习之人物的动作.md</string>
 		</array>
 		<array>
@@ -715,7 +728,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>327</integer>
+			<integer>333</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
