@@ -596,6 +596,16 @@
 					<integer>373</integer>
 				</dict>
 			</dict>
+			<key>2017-05-02-每天500字：拖延症真是可怕.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515376149.40421098</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>381</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -766,6 +776,9 @@
 			<string>2017-04-28-每天500字：我与京信二十年.md</string>
 		</array>
 		<array>
+			<string>2017-05-02-每天500字：拖延症真是可怕.md</string>
+		</array>
+		<array>
 			<string>2017-02-24-每天500字：写作练习之人物的动作.md</string>
 		</array>
 		<array>
@@ -802,7 +815,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>374</integer>
+			<integer>382</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
