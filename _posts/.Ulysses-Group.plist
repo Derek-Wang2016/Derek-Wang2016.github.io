@@ -616,6 +616,16 @@
 					<integer>389</integer>
 				</dict>
 			</dict>
+			<key>2017-05-04-每天500字：怎样去背英语单词.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515552073.73742002</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>393</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -792,6 +802,9 @@
 			<string>2017-05-03-每天500字：为什么在教育孩子时总是按捺不住怒火.md</string>
 		</array>
 		<array>
+			<string>2017-05-04-每天500字：怎样去背英语单词.md</string>
+		</array>
+		<array>
 			<string>2017-02-24-每天500字：写作练习之人物的动作.md</string>
 		</array>
 		<array>
@@ -828,7 +841,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>390</integer>
+			<integer>394</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
