@@ -636,6 +636,16 @@
 					<integer>397</integer>
 				</dict>
 			</dict>
+			<key>2017-05-10-每天500字：一个晚上看了两个老男人的哽咽.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516070755.64225203</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>403</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -818,6 +828,9 @@
 			<string>2017-05-09-每天500字：小学数学怎么学习？.md</string>
 		</array>
 		<array>
+			<string>2017-05-10-每天500字：一个晚上看了两个老男人的哽咽.md</string>
+		</array>
+		<array>
 			<string>2017-02-24-每天500字：写作练习之人物的动作.md</string>
 		</array>
 		<array>
@@ -854,7 +867,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>398</integer>
+			<integer>404</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
