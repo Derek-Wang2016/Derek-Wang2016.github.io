@@ -646,6 +646,16 @@
 					<integer>403</integer>
 				</dict>
 			</dict>
+			<key>2017-05-11-每天500字：你到底是在作秀还是在拼命学习.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516156746.08349597</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>407</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -831,6 +841,9 @@
 			<string>2017-05-10-每天500字：一个晚上看了两个老男人的哽咽.md</string>
 		</array>
 		<array>
+			<string>2017-05-11-每天500字：你到底是在作秀还是在拼命学习.md</string>
+		</array>
+		<array>
 			<string>2017-02-24-每天500字：写作练习之人物的动作.md</string>
 		</array>
 		<array>
@@ -867,7 +880,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>404</integer>
+			<integer>408</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
