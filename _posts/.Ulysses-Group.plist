@@ -676,6 +676,16 @@
 					<integer>417</integer>
 				</dict>
 			</dict>
+			<key>2017-05-16-每天500字：保证时不时的学的新东西.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516589177.30448502</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>427</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -867,6 +877,9 @@
 			<string>2017-05-15-每天500字：给孩子做好榜样其实很不容易.md</string>
 		</array>
 		<array>
+			<string>2017-05-16-每天500字：保证时不时的学的新东西.md</string>
+		</array>
+		<array>
 			<string>2017-05-12-每天500字：口语应该怎么练.md</string>
 		</array>
 		<array>
@@ -906,7 +919,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>424</integer>
+			<integer>428</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
