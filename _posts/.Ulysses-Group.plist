@@ -686,6 +686,16 @@
 					<integer>429</integer>
 				</dict>
 			</dict>
+			<key>2017-05-17-每天500字：为甚骗人的没事打假的却消失了.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516675904.61210197</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>437</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -880,6 +890,9 @@
 			<string>2017-05-16-每天500字：保证时不时的学点新东西.md</string>
 		</array>
 		<array>
+			<string>2017-05-17-每天500字：为甚骗人的没事打假的却消失了.md</string>
+		</array>
+		<array>
 			<string>2017-05-12-每天500字：口语应该怎么练.md</string>
 		</array>
 		<array>
@@ -919,7 +932,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>430</integer>
+			<integer>438</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
