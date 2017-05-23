@@ -726,6 +726,16 @@
 					<integer>457</integer>
 				</dict>
 			</dict>
+			<key>2017-05-23-每天500字：选好了目标你就撒开丫子跑吧.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517193564.33901</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>465</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -932,6 +942,9 @@
 			<string>2017-05-22-每天500字：你能控制的就是让自己更优秀.md</string>
 		</array>
 		<array>
+			<string>2017-05-23-每天500字：选好了目标你就撒开丫子跑吧.md</string>
+		</array>
+		<array>
 			<string>2017-05-12-每天500字：口语应该怎么练.md</string>
 		</array>
 		<array>
@@ -971,7 +984,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>458</integer>
+			<integer>466</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
