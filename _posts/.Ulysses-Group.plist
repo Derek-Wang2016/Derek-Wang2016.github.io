@@ -770,6 +770,26 @@
 					<integer>479</integer>
 				</dict>
 			</dict>
+			<key>2017-05-26-每天500字：要去影响别人，别被人影响.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517534097.54419202</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>487</integer>
+				</dict>
+			</dict>
+			<key>2017-05-27-每天500字：MD，还是自律，别因小失大.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517534484.40196401</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>492</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1017,6 +1037,12 @@
 		<array>
 			<string>2017-01-17-乔布斯罕见高清大图.md</string>
 		</array>
+		<array>
+			<string>2017-05-26-每天500字：要去影响别人，别被人影响.md</string>
+		</array>
+		<array>
+			<string>2017-05-27-每天500字：MD，还是自律，别因小失大.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>modificationDate</string>
@@ -1027,7 +1053,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>485</integer>
+			<integer>493</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
