@@ -746,6 +746,20 @@
 					<integer>471</integer>
 				</dict>
 			</dict>
+			<key>2017-05-25-每天500字：自律是做事的第一要务-减肥开始 - 2.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>517462028.49743903</real>
+				<key>lastModification</key>
+				<real>517462028.49743903</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>483</integer>
+				</dict>
+			</dict>
 			<key>2017-05-25-每天500字：自律是做事的第一要务-减肥开始.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -971,6 +985,9 @@
 			<string>2017-05-25-每天500字：自律是做事的第一要务-减肥开始.md</string>
 		</array>
 		<array>
+			<string>2017-05-25-每天500字：自律是做事的第一要务-减肥开始 - 2.md</string>
+		</array>
+		<array>
 			<string>2017-05-12-每天500字：口语应该怎么练.md</string>
 		</array>
 		<array>
@@ -1010,7 +1027,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>480</integer>
+			<integer>485</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
