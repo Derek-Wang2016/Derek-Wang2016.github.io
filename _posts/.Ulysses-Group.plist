@@ -800,6 +800,16 @@
 					<integer>496</integer>
 				</dict>
 			</dict>
+			<key>2017-05-31-每天500字：好的睡眠对你到底有多重要.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>517882687.34114897</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>502</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1056,6 +1066,9 @@
 		<array>
 			<string>2017-05-30-每天500字：自律就是挑战自己的舒适区.md</string>
 		</array>
+		<array>
+			<string>2017-05-31-每天500字：好的睡眠对你到底有多重要.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>modificationDate</string>
@@ -1066,7 +1079,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>497</integer>
+			<integer>503</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
