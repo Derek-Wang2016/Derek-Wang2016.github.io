@@ -820,6 +820,16 @@
 					<integer>508</integer>
 				</dict>
 			</dict>
+			<key>2017-06-02-每天500字：谈谈后面工作中要注意的地方.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>518057635.64313799</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>514</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1082,6 +1092,9 @@
 		<array>
 			<string>2017-06-01-每天500字：2017年六月一号，我开始跑步了.md</string>
 		</array>
+		<array>
+			<string>2017-06-02-每天500字：谈谈后面工作中要注意的地方.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>modificationDate</string>
@@ -1092,7 +1105,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>509</integer>
+			<integer>515</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
