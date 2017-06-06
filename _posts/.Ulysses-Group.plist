@@ -826,6 +826,16 @@
 					<integer>520</integer>
 				</dict>
 			</dict>
+			<key>2017-06-06-每天500字：为什么“阅读”让你如此沉醉.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>518402783.72517401</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>530</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1091,6 +1101,9 @@
 		<array>
 			<string>2017-06-05-每天500字：只有努力才能让你的梦想插上翅膀.md</string>
 		</array>
+		<array>
+			<string>2017-06-06-每天500字：为什么“阅读”让你如此沉醉.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>modificationDate</string>
@@ -1101,7 +1114,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>521</integer>
+			<integer>531</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
