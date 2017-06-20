@@ -926,6 +926,16 @@
 					<integer>587</integer>
 				</dict>
 			</dict>
+			<key>2017-06-20-每天500字：如何锻炼好的文笔？.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>519611720.21929699</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>593</integer>
+				</dict>
+			</dict>
 			<key>Untitled.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -1236,6 +1246,9 @@
 			<string>2017-06-19-每天500字：父爱如山，写给父亲节.md</string>
 		</array>
 		<array>
+			<string>2017-06-20-每天500字：如何锻炼好的文笔？.md</string>
+		</array>
+		<array>
 			<string>2017-06-13-每天500字：高考完了，孩子们要干些什么？ - 2.md</string>
 		</array>
 	</array>
@@ -1248,7 +1261,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>588</integer>
+			<integer>594</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
