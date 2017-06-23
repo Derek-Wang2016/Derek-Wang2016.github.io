@@ -946,6 +946,16 @@
 					<integer>599</integer>
 				</dict>
 			</dict>
+			<key>2017-06-22-每天500字：你得咬着牙让自己变强.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>519890110.08654302</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>615</integer>
+				</dict>
+			</dict>
 			<key>2017-06-22-每天500字：这个世界哪有什么后悔的药吃.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1275,6 +1285,9 @@
 			<string>2017-06-22-每天500字：这个世界哪有什么后悔的药吃.md</string>
 		</array>
 		<array>
+			<string>2017-06-22-每天500字：你得咬着牙让自己变强.md</string>
+		</array>
+		<array>
 			<string>2017-06-13-每天500字：高考完了，孩子们要干些什么？ - 2.md</string>
 		</array>
 	</array>
@@ -1287,7 +1300,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>610</integer>
+			<integer>616</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
