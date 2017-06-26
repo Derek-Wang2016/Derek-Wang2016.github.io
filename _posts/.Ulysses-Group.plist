@@ -966,18 +966,14 @@
 					<integer>617</integer>
 				</dict>
 			</dict>
-			<key>Untitled.md</key>
+			<key>2017-06-26-每天500字：比起瞎折腾你更需要向未来投资.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>519525205.05082297</real>
 				<key>lastModification</key>
-				<real>519525205.05082297</real>
+				<real>520131442.68284899</real>
 				<key>version</key>
 				<dict>
 					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-					<integer>582</integer>
+					<integer>627</integer>
 				</dict>
 			</dict>
 			<key>template.md</key>
@@ -996,9 +992,6 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
-		<array>
-			<string>Untitled.md</string>
-		</array>
 		<array>
 			<string>2017-02-06-每天500字：我为什么要开始每天写作？.md</string>
 		</array>
@@ -1288,6 +1281,9 @@
 			<string>2017-06-23-每天500字：你得咬着牙让自己变强.md</string>
 		</array>
 		<array>
+			<string>2017-06-26-每天500字：比起瞎折腾你更需要向未来投资.md</string>
+		</array>
+		<array>
 			<string>2017-06-13-每天500字：高考完了，孩子们要干些什么？ - 2.md</string>
 		</array>
 	</array>
@@ -1300,7 +1296,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>618</integer>
+			<integer>628</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
