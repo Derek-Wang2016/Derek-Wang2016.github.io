@@ -996,6 +996,16 @@
 					<integer>637</integer>
 				</dict>
 			</dict>
+			<key>2017-06-29-每天500字：到底你要我爱还是爱我.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>520392108.06800902</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>647</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1310,6 +1320,9 @@
 			<string>2017-06-28-每天500字：到底谁是啥X？.md</string>
 		</array>
 		<array>
+			<string>2017-06-29-每天500字：到底你要我爱还是爱我.md</string>
+		</array>
+		<array>
 			<string>2017-06-13-每天500字：高考完了，孩子们要干些什么？ - 2.md</string>
 		</array>
 	</array>
@@ -1322,7 +1335,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>638</integer>
+			<integer>648</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
