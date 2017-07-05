@@ -1036,6 +1036,16 @@
 					<integer>665</integer>
 				</dict>
 			</dict>
+			<key>2017-07-05-每天500字：你没听错，大部分人的梦想都没有实现.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>520908145.70608002</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>673</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1362,6 +1372,9 @@
 			<string>2017-07-04-每天500字：别死抠门，聪明人懂得成全别人.md</string>
 		</array>
 		<array>
+			<string>2017-07-05-每天500字：你没听错，大部分人的梦想都没有实现.md</string>
+		</array>
+		<array>
 			<string>2017-06-13-每天500字：高考完了，孩子们要干些什么？ - 2.md</string>
 		</array>
 	</array>
@@ -1374,7 +1387,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>666</integer>
+			<integer>674</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
