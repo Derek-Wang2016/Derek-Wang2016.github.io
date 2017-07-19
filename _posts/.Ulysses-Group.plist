@@ -1056,20 +1056,6 @@
 					<integer>679</integer>
 				</dict>
 			</dict>
-			<key>2017-07-07-每天500字：你和大咖的距离到底在哪里？ - 2 - 2.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>521433066.083776</real>
-				<key>lastModification</key>
-				<real>521433066.083776</real>
-				<key>version</key>
-				<dict>
-					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-					<integer>691</integer>
-				</dict>
-			</dict>
 			<key>2017-07-07-每天500字：你和大咖的距离到底在哪里？.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1138,6 +1124,26 @@
 				<dict>
 					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
 					<integer>718</integer>
+				</dict>
+			</dict>
+			<key>2017-07-18-每天500字：这个公众号为什么叫小提琴姐妹.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522118994.25264102</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>727</integer>
+				</dict>
+			</dict>
+			<key>2017-07-19-每天500字：学习怎么把能力转化成财富.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522119127.95448202</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>732</integer>
 				</dict>
 			</dict>
 			<key>template.md</key>
@@ -1478,9 +1484,6 @@
 			<string>2017-07-11-每天500字：这个世界上还是有神童的（2）.md</string>
 		</array>
 		<array>
-			<string>2017-07-07-每天500字：你和大咖的距离到底在哪里？ - 2 - 2.md</string>
-		</array>
-		<array>
 			<string>2017-07-12-每天500字：教育的确是个拼爹的事儿.md</string>
 		</array>
 		<array>
@@ -1491,6 +1494,12 @@
 		</array>
 		<array>
 			<string>2017-07-17-每天500字：记一次不公平的才艺表演.md</string>
+		</array>
+		<array>
+			<string>2017-07-18-每天500字：这个公众号为什么叫小提琴姐妹.md</string>
+		</array>
+		<array>
+			<string>2017-07-19-每天500字：学习怎么把能力转化成财富.md</string>
 		</array>
 		<array>
 			<string>2017-06-13-每天500字：高考完了，孩子们要干些什么？ - 2.md</string>
@@ -1508,7 +1517,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>719</integer>
+			<integer>733</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
