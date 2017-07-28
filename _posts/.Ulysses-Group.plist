@@ -1196,6 +1196,16 @@
 					<integer>770</integer>
 				</dict>
 			</dict>
+			<key>2017-07-27-每天500字：坚持不了就别谈什么兴趣了.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>522897807.83267099</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>776</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1564,6 +1574,9 @@
 			<string>2017-07-26-每天500字：习惯的意义.md</string>
 		</array>
 		<array>
+			<string>2017-07-27-每天500字：坚持不了就别谈什么兴趣了.md</string>
+		</array>
+		<array>
 			<string>2017-07-25-每天500字：我想说，女儿你们慢些长大 - 2.md</string>
 		</array>
 		<array>
@@ -1582,7 +1595,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>771</integer>
+			<integer>777</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
