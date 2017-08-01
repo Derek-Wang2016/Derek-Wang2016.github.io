@@ -1206,6 +1206,26 @@
 					<integer>776</integer>
 				</dict>
 			</dict>
+			<key>2017-07-31-每天500字：和有些人争吵真的会降低智商.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>523240622.08801198</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>788</integer>
+				</dict>
+			</dict>
+			<key>2017-08-01-每天500字：说说别人的孩子.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>523240654.27822</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>790</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1577,6 +1597,12 @@
 			<string>2017-07-27-每天500字：坚持不了就别谈什么兴趣了.md</string>
 		</array>
 		<array>
+			<string>2017-07-31-每天500字：和有些人争吵真的会降低智商.md</string>
+		</array>
+		<array>
+			<string>2017-08-01-每天500字：说说别人的孩子.md</string>
+		</array>
+		<array>
 			<string>2017-07-25-每天500字：我想说，女儿你们慢些长大 - 2.md</string>
 		</array>
 		<array>
@@ -1595,7 +1621,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>777</integer>
+			<integer>791</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
