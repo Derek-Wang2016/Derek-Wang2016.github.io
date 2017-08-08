@@ -1246,6 +1246,16 @@
 					<integer>798</integer>
 				</dict>
 			</dict>
+			<key>2017-08-08-每天500字：人还是要信自己.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>523856432.22979403</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>804</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1629,6 +1639,9 @@
 			<string>2017-08-07-每天500字：不能缺席教育的爸爸.md</string>
 		</array>
 		<array>
+			<string>2017-08-08-每天500字：人还是要信自己.md</string>
+		</array>
+		<array>
 			<string>2017-07-25-每天500字：我想说，女儿你们慢些长大 - 2.md</string>
 		</array>
 		<array>
@@ -1647,7 +1660,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>799</integer>
+			<integer>805</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
