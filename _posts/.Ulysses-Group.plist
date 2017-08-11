@@ -6,6 +6,20 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
+			<key>10：37.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>524115999.242109</real>
+				<key>lastModification</key>
+				<real>524115999.242109</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>825</integer>
+				</dict>
+			</dict>
 			<key>2016-12-15-警惕！4-5岁的孩子是语言能力的关键期.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1266,6 +1280,16 @@
 					<integer>810</integer>
 				</dict>
 			</dict>
+			<key>2017-08-11-每天500字：如何使用不同的视觉角度讲道理.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524116555.44323802</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>826</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1655,6 +1679,10 @@
 			<string>2017-08-10-每天500字：如何多线程的工作和学习.md</string>
 		</array>
 		<array>
+			<string>2017-08-11-每天500字：如何使用不同的视觉角度讲道理.md</string>
+			<string>10：37.md</string>
+		</array>
+		<array>
 			<string>2017-07-25-每天500字：我想说，女儿你们慢些长大 - 2.md</string>
 		</array>
 		<array>
@@ -1673,7 +1701,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>811</integer>
+			<integer>827</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
