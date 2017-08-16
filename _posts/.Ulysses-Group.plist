@@ -1314,6 +1314,26 @@
 					<integer>836</integer>
 				</dict>
 			</dict>
+			<key>2017-08-15-每天500字：爱是。。。。。责任还是负担.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524459138.90783799</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>846</integer>
+				</dict>
+			</dict>
+			<key>2017-08-16-每天500字：女儿放假了.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524459171.46751899</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>847</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1721,6 +1741,12 @@
 		<array>
 			<string>2017-07-10-每天500字：这个世界上还是有神童的.md</string>
 		</array>
+		<array>
+			<string>2017-08-15-每天500字：爱是。。。。。责任还是负担.md</string>
+		</array>
+		<array>
+			<string>2017-08-16-每天500字：女儿放假了.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>modificationDate</string>
@@ -1731,7 +1757,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>844</integer>
+			<integer>848</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
