@@ -1344,6 +1344,16 @@
 					<integer>855</integer>
 				</dict>
 			</dict>
+			<key>2017-08-18-每天500字：我愤怒的伸出手，冲车外比了个手势.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524629131.46377403</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>863</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1760,6 +1770,9 @@
 		<array>
 			<string>2017-08-17-每天500字：你是怎么对待时间的？.md</string>
 		</array>
+		<array>
+			<string>2017-08-18-每天500字：我愤怒的伸出手，冲车外比了个手势.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>modificationDate</string>
@@ -1770,7 +1783,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>856</integer>
+			<integer>864</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
