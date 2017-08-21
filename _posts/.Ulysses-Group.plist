@@ -6,20 +6,6 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>10：37.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>524115999.242109</real>
-				<key>lastModification</key>
-				<real>524115999.242109</real>
-				<key>version</key>
-				<dict>
-					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-					<integer>825</integer>
-				</dict>
-			</dict>
 			<key>2016-12-15-警惕！4-5岁的孩子是语言能力的关键期.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1354,6 +1340,16 @@
 					<integer>863</integer>
 				</dict>
 			</dict>
+			<key>2017-08-21-每天500字：女儿终于学会了游泳.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524968384.557302</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>867</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1744,7 +1740,6 @@
 		</array>
 		<array>
 			<string>2017-08-11-每天500字：如何使用不同的视觉角度讲道理.md</string>
-			<string>10：37.md</string>
 		</array>
 		<array>
 			<string>2017-08-14-每天500字：道理你都懂，不做啥用没有.md</string>
@@ -1773,6 +1768,9 @@
 		<array>
 			<string>2017-08-18-每天500字：我愤怒的伸出手，冲车外比了个手势.md</string>
 		</array>
+		<array>
+			<string>2017-08-21-每天500字：女儿终于学会了游泳.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>modificationDate</string>
@@ -1783,7 +1781,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>864</integer>
+			<integer>868</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
