@@ -1356,6 +1356,16 @@
 					<integer>885</integer>
 				</dict>
 			</dict>
+			<key>2017-08-24-每天500字：我为什么要订阅Amazon Unlimited.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>525230717.47120702</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>891</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1780,6 +1790,9 @@
 		<array>
 			<string>2017-08-23-每天500字：我喜欢买杯子.md</string>
 		</array>
+		<array>
+			<string>2017-08-24-每天500字：我为什么要订阅Amazon Unlimited.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>modificationDate</string>
@@ -1790,7 +1803,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>886</integer>
+			<integer>892</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
