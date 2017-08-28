@@ -1376,6 +1376,16 @@
 					<integer>897</integer>
 				</dict>
 			</dict>
+			<key>2017-08-28-每天500字：小记恬恬小提琴二级考试.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>525573192.51653701</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>903</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1389,6 +1399,8 @@
 		</dict>
 		<key>sheetOrder</key>
 		<real>508388422.34936303</real>
+		<key>userIconName</key>
+		<real>525341567.62586898</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
@@ -1806,22 +1818,32 @@
 		<array>
 			<string>2017-08-25-每天500字：工欲善其事，必先利其器，我是一个爱打磨工具的人.md</string>
 		</array>
+		<array>
+			<string>2017-08-28-每天500字：小记恬恬小提琴二级考试.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>modificationDate</string>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
+	<key>userIconName</key>
+	<string>Reference</string>
 	<key>versioning</key>
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>898</integer>
+			<integer>904</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
 			<integer>1</integer>
+		</dict>
+		<key>userIconName</key>
+		<dict>
+			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+			<integer>15</integer>
 		</dict>
 	</dict>
 </dict>
