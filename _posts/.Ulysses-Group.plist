@@ -1386,6 +1386,16 @@
 					<integer>903</integer>
 				</dict>
 			</dict>
+			<key>2017-08-29-每天500字：学习的节奏.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>525661595.97615403</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>907</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1821,6 +1831,9 @@
 		<array>
 			<string>2017-08-28-每天500字：小记恬恬小提琴二级考试.md</string>
 		</array>
+		<array>
+			<string>2017-08-29-每天500字：学习的节奏.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>modificationDate</string>
@@ -1833,7 +1846,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>904</integer>
+			<integer>908</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
