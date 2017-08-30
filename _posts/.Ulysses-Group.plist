@@ -1396,6 +1396,16 @@
 					<integer>907</integer>
 				</dict>
 			</dict>
+			<key>2017-08-30-每天500字：钱能买到的，都是便宜的.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>525747845.671112</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>913</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1834,6 +1844,9 @@
 		<array>
 			<string>2017-08-29-每天500字：学习的节奏.md</string>
 		</array>
+		<array>
+			<string>2017-08-30-每天500字：钱能买到的，都是便宜的.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>modificationDate</string>
@@ -1846,7 +1859,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>908</integer>
+			<integer>914</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
