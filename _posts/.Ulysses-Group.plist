@@ -1426,16 +1426,6 @@
 					<integer>927</integer>
 				</dict>
 			</dict>
-			<key>2017-09-02-每天500字：写写我的嘟嘟小天使.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>526291766.482647</real>
-				<key>version</key>
-				<dict>
-					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-					<integer>939</integer>
-				</dict>
-			</dict>
 			<key>2017-09-02-每天500字：记小金钟半决赛.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1444,6 +1434,16 @@
 				<dict>
 					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
 					<integer>935</integer>
+				</dict>
+			</dict>
+			<key>2017-09-05-每天500字：写写我的嘟嘟小天使.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>526294165.369335</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>941</integer>
 				</dict>
 			</dict>
 			<key>template.md</key>
@@ -1894,7 +1894,7 @@
 			<string>2017-09-02-每天500字：记小金钟半决赛.md</string>
 		</array>
 		<array>
-			<string>2017-09-02-每天500字：写写我的嘟嘟小天使.md</string>
+			<string>2017-09-05-每天500字：写写我的嘟嘟小天使.md</string>
 		</array>
 		<array>
 			<string>2017-08-30-每天500字：钱能买到的，都是便宜的.md</string>
@@ -1911,7 +1911,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>940</integer>
+			<integer>942</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
