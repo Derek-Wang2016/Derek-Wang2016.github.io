@@ -1456,6 +1456,16 @@
 					<integer>945</integer>
 				</dict>
 			</dict>
+			<key>2017-09-07-每天500字：我人生中的第一部手机.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>526441911.207344</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>951</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1910,6 +1920,9 @@
 			<string>2017-09-06-每天500字：为什么我特别喜欢看干货文章.md</string>
 		</array>
 		<array>
+			<string>2017-09-07-每天500字：我人生中的第一部手机.md</string>
+		</array>
+		<array>
 			<string>2017-08-30-每天500字：钱能买到的，都是便宜的.md</string>
 		</array>
 	</array>
@@ -1924,7 +1937,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>946</integer>
+			<integer>952</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
