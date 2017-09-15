@@ -1516,6 +1516,16 @@
 					<integer>978</integer>
 				</dict>
 			</dict>
+			<key>2017-09-15-每天500字：成长的价值在于独立思考.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>527129564.030222</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>988</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -1988,6 +1998,9 @@
 			<string>2017-09-14-每天500字：为什么我不会买iPhone X.md</string>
 		</array>
 		<array>
+			<string>2017-09-15-每天500字：成长的价值在于独立思考.md</string>
+		</array>
+		<array>
 			<string>2017-08-30-每天500字：钱能买到的，都是便宜的.md</string>
 		</array>
 	</array>
@@ -2002,7 +2015,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>979</integer>
+			<integer>989</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
