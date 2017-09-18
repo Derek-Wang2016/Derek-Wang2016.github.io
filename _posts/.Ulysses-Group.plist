@@ -1526,6 +1526,16 @@
 					<integer>988</integer>
 				</dict>
 			</dict>
+			<key>2017-09-18-每天500字：小记玖龙湾才艺比赛半决赛.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>527408336.07419699</real>
+				<key>version</key>
+				<dict>
+					<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
+					<integer>994</integer>
+				</dict>
+			</dict>
 			<key>template.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -2001,6 +2011,9 @@
 			<string>2017-09-15-每天500字：成长的价值在于独立思考.md</string>
 		</array>
 		<array>
+			<string>2017-09-18-每天500字：小记玖龙湾才艺比赛半决赛.md</string>
+		</array>
+		<array>
 			<string>2017-08-30-每天500字：钱能买到的，都是便宜的.md</string>
 		</array>
 	</array>
@@ -2015,7 +2028,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>694dba350b4e4e4928683577e125e833473bab896e7f0949799302b181ec2fc3</key>
-			<integer>989</integer>
+			<integer>995</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
