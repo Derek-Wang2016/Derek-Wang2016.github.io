@@ -1,112 +1,124 @@
-# ---------------- #
-#   Main Configs   #
-# ---------------- #
-baseurl:
-url: www.youw2s.com
-date_format: "ordinal"
-title: "Derek"
-subtitle: "写作是一种生活态度"
-description: "Derek的个人blog"
-keywords: 个人 博客 教育 英语 育儿
-favicon: /favicon.ico
-timezone: Asia/Guangzhou
-encoding: "utf-8"
-side_bar_repo_limit: 5
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+#
+# ,--------.      ,--.   ,--. ,--.
+# '--.  .--',---.  \  `.'  /,-'  '-.
+#    |  |  | .-. :  .'    \ '-.  .-'
+#    |  |  \   --. /  .'.  \  |  |
+#    `--'   `----''--'   '--' `--'
 
-# ---------------- #
-#      Author      #
-# ---------------- #
-author: Derek Wang
-organization: Derek的个人blog, Inc.
-organization_url: www.youw2s.com
-location: Guangzhou, China
-email: zhwangding@gmail.com
+text_color_theme: default #eg: default | dark | forest | ocean | chocolate | orange
+## Base settings ##
+# url:  #the base hostname & protocol for your site e.g. https://www.someone.com
+baseurl: /
+title: Someone's blog
+description: > #this means to ignore newlines until "nav_lists:"
+  Someone's Blog
 
-# ---------------- #
-#    Navigation    #
-# ---------------- #
-navs:
-  -
-    href: /
-    label: 首页
+nav_lists:
+  - titles:
+      en: About
+      zh: 关于
+      zh-Hans: 关于
+      zh-Hant: 關於
+    url: /about.html
 
-  -
-    href: /categories/
-    label: 分类
+# paths:
+#   base: /
+#   home: /
+#   all:  /all.html
+#   rss:  /feed.xml
 
-  -
-    href: /archive/
-    label: 历史文章
-    
-  -
-    href: /about/
-    label: 关于
+## GitHub repository (if the site is hosted by GitHub) ##
+# repository:  #e.g. someone/someone.github.io
+# repository_tree:  #e.g. master
 
+## Language & timezone ##
+lang: en #the language of your site, eg: en(English), zh(简体中文), zh-Hans(简体中文), zh-Hant(繁體中文)
+timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
-# ---------------- #
-#       RSS        #
-# ---------------- #
-subscribe_rss: 
+## Author & social ##
+author:
+  name: Someone
+  # email:  #your Email address e.g. someone@site.com
+  # facebook:  #your Facebook username
+  # twitter:  #your Twitter username
+  # github:  #your GitHub username
+  # googleplus:  #your Google+ username
+  # weibo:  #your Weibo username
+  # douban:  #your Douban username
+  # linkedin:  #your Linkedin username
 
-# ---------------- #
-#      Jekyll      #
-# ---------------- #
+## TOC
+toc:
+  # selectors: 'h1,h2,h3'
+
+## Comment system (Disqus) ##
+disqus:
+  # shortname:  #the Disqus shortname for the site
+
+## Comment system (gitalk) ##
+# please refer to https://github.com/gitalk/gitalk for more info.
+gitalk:
+  # clientID:  #Github Application Client ID
+  # clientSecret:  #Github Application Client Secret
+  # repository:  #Github repo
+  # owner:  #Github repo owner
+  # admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
+    # - owner
+
+## Google Analytics ##
+# ga_tracking_id:  #Google analytics id for the site
+
+## Reading quantity (LeanCloud) ##
+leancloud:
+  # app_id:  #LeanCloud App id
+  # app_key:  #LeanCloud App key
+  # app_class:  #LeanCloud App class
+
+# mathjax: true
+
+## Paginate ##
+paginate: 5
+paginate_path: /blog/page:num
+
+## Post excerpts ##
+excerpt_separator: <!--more-->
+excerpt_type: text # text | html
+
+## Build ##
 markdown: kramdown
-kramdown:
-    input: GFM
 highlighter: rouge
-paginate: 8
-lsi: false
-quiet: false
-excerpt_separator: "\n\n"
-permalink: /:year/:month/:day/:title/
-gems:
-    - jekyll-github-metadata
-    - rouge
-#     - jekyll-html-pipeline
-    - jekyll-paginate
-    - jekyll-sitemap
-    - jekyll-feed
-    - jemoji
-#     - jekyll-mentions
-collections:
-    wiki:
-        output: true
-        permalink: /wiki/:path/
+permalink: date
 
-#repository: www.youw2s.com
+exclude:
+  - CHANGELOG.md
+  - CHECKLIST.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README-*.md
+  - README.md
+  - gulpfile.js
+  - jekyll-text-theme.gemspec
+  - package-lock.json
+  - package.json
+  - /docs
+  - /node_modules
+  - /screenshots
+  - /test
+  - /vendor
 
-# ---------------- #
-#      Socials     #
-# ---------------- #
-github_username: 
-douban_username: 
-facebook_username: 
-weibo_username: 
-zhihu_username: 
-twitter_username: 
+## Plugins ##
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jemoji
 
-# ---------------- #
-#      Comments    #
-# ---------------- #
-# support provider: disqus, duoshuo
-comments_provider: disqus
-# !!!重要!!! 请修改下面两个用户名为你自己申请的
-# !!!Important!!! Please modify usernames below to yours
-duoshuo_username: derek
-disqus_username: derek
-# 在使用 disqus 的时候可点击显示多说评论框
-lazy_load_duoshuo: false
-
-# ---------------- #
-#    Analytics     #
-# ---------------- #
-google:
-    analytics_id: UA-80669434-1
-
-# ---------------- #
-#      Datas       #
-# ---------------- #
-skill_software_keywords: [Java, C++, Python, Design Patterns]
-skill_mobile_app_keywords: [Android, Reverse Engineering]
-skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
+## Server ##
+server_url: "0.0.0.0"

@@ -1,0 +1,112 @@
+# ---------------- #
+#   Main Configs   #
+# ---------------- #
+baseurl:
+url: www.youw2s.com
+date_format: "ordinal"
+title: "Derek"
+subtitle: "写作是一种生活态度"
+description: "Derek的个人blog"
+keywords: 个人 博客 教育 英语 育儿
+favicon: /favicon.ico
+timezone: Asia/Guangzhou
+encoding: "utf-8"
+side_bar_repo_limit: 5
+
+# ---------------- #
+#      Author      #
+# ---------------- #
+author: Derek Wang
+organization: Derek的个人blog, Inc.
+organization_url: www.youw2s.com
+location: Guangzhou, China
+email: zhwangding@gmail.com
+
+# ---------------- #
+#    Navigation    #
+# ---------------- #
+navs:
+  -
+    href: /
+    label: 首页
+
+  -
+    href: /categories/
+    label: 分类
+
+  -
+    href: /archive/
+    label: 历史文章
+    
+  -
+    href: /about/
+    label: 关于
+
+
+# ---------------- #
+#       RSS        #
+# ---------------- #
+subscribe_rss: 
+
+# ---------------- #
+#      Jekyll      #
+# ---------------- #
+markdown: kramdown
+kramdown:
+    input: GFM
+highlighter: rouge
+paginate: 8
+lsi: false
+quiet: false
+excerpt_separator: "\n\n"
+permalink: /:year/:month/:day/:title/
+gems:
+    - jekyll-github-metadata
+    - rouge
+#     - jekyll-html-pipeline
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-feed
+    - jemoji
+#     - jekyll-mentions
+collections:
+    wiki:
+        output: true
+        permalink: /wiki/:path/
+
+#repository: www.youw2s.com
+
+# ---------------- #
+#      Socials     #
+# ---------------- #
+github_username: 
+douban_username: 
+facebook_username: 
+weibo_username: 
+zhihu_username: 
+twitter_username: 
+
+# ---------------- #
+#      Comments    #
+# ---------------- #
+# support provider: disqus, duoshuo
+comments_provider: disqus
+# !!!重要!!! 请修改下面两个用户名为你自己申请的
+# !!!Important!!! Please modify usernames below to yours
+duoshuo_username: derek
+disqus_username: derek
+# 在使用 disqus 的时候可点击显示多说评论框
+lazy_load_duoshuo: false
+
+# ---------------- #
+#    Analytics     #
+# ---------------- #
+google:
+    analytics_id: UA-80669434-1
+
+# ---------------- #
+#      Datas       #
+# ---------------- #
+skill_software_keywords: [Java, C++, Python, Design Patterns]
+skill_mobile_app_keywords: [Android, Reverse Engineering]
+skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
